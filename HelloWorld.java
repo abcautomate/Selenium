@@ -5,7 +5,7 @@
 import org.openqa.selenium.By;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class OpenBrowser{
+public class HelloWorld{
 
 	public static void main(String args[]) throws Exception{
 
