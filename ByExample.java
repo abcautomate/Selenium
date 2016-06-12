@@ -23,10 +23,10 @@ public class ByExample {
 		waitInPage();
 
 		WebElement ideLink= driver.findElement(By.partialLinkText("Plugins"));
-		ideLink.click();();
-
-
-		waitInPage		WebElement homeLink= driver.findElement(By.tagName("a"));
+		ideLink.click();
+		waitInPage();
+		
+		WebElement homeLink= driver.findElement(By.tagName("a"));
 		homeLink.click();
 		waitInPage();
 
